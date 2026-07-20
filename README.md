@@ -4,9 +4,11 @@
 
 Fulbo is a football game for the [fulbo.fun](https://fulbo.fun) community. This is the full Beta 1.0, compiled to WebGL — the complete game, playable with no install.
 
-![Fulbo screenshot](screenshots/Fulbo_sneak-peek1.png)
+![Line up — team ratings and kits](screenshots/lineup.png)
 
-![Fulbo screenshot](screenshots/Fulbo_sneak-peek2.png)
+![Match — live gameplay with broadcast HUD](screenshots/match.png)
+
+![In-match stats and camera settings](screenshots/stats.png)
 
 ## About this beta
 

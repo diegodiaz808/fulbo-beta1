@@ -1,12 +1,12 @@
-# Fulbo — Beta 1.0 (Playable)
+# Fulbo - Beta 1.0 (Playable)
 
 **▶ Play it in your browser: [diegodiaz808.github.io/fulbo-beta1](https://diegodiaz808.github.io/fulbo-beta1/)**
 
-Fulbo is a football game for the [fulbo.fun](https://fulbo.fun) community. This is the full Beta 1.0, compiled to WebGL — the complete game, playable with no install.
+Fulbo is a football game for the [fulbo.fun](https://fulbo.fun) community. This is the full Beta 1.0, compiled to WebGL - the complete game, playable with no install.
 
-![Line up — team ratings and kits](screenshots/lineup.png)
+![Line up - team ratings and kits](screenshots/lineup.png)
 
-![Match — live gameplay with broadcast HUD](screenshots/match.png)
+![Match - live gameplay with broadcast HUD](screenshots/match.png)
 
 ![In-match stats and camera settings](screenshots/stats.png)
 
@@ -18,7 +18,7 @@ Fulbo is a football game for the [fulbo.fun](https://fulbo.fun) community. This 
 
 ## Tech notes
 
-The gameplay layer is built on a licensed football simulation framework from the Unity Asset Store, customized and content-configured for Fulbo; per its license, the framework's source is not redistributed here — this repo ships the compiled, distributable build. The Fulbo ecosystem around the game is in my other repos: [content pipeline](https://github.com/diegodiaz808/fulbo-scripts), [video factory](https://github.com/diegodiaz808/fulbo-video-mixer) and [community Discord bots](https://github.com/diegodiaz808/discord-game-bots).
+The gameplay layer is built on a licensed football simulation framework from the Unity Asset Store, customized and content-configured for Fulbo; per its license, the framework's source is not redistributed here - this repo ships the compiled, distributable build. The Fulbo ecosystem around the game is in my other repos: [content pipeline](https://github.com/diegodiaz808/fulbo-scripts), [video factory](https://github.com/diegodiaz808/fulbo-video-mixer) and [community Discord bots](https://github.com/diegodiaz808/discord-game-bots).
 
 ## Run locally
 

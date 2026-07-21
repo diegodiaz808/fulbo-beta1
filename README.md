@@ -1,4 +1,4 @@
-# Fulbo - Beta 1.0 (Playable)
+# Fulbo Beta 1.0
 
 **▶ Play it in your browser: [diegodiaz808.github.io/fulbo-beta1](https://diegodiaz808.github.io/fulbo-beta1/)**
 
